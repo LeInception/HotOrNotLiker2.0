@@ -15,4 +15,4 @@ Simply type `python3 hotornot.py`
 
 Hotornot now uses the 'isTrusted' flag when detecting clicks, these can not be easily simulated using javascript.
 
-Hence we have to use chromium for Python, a controllable browser!
+Hence we have to use Selenium for Python, a controllable browser!
