@@ -8,3 +8,5 @@ They may have updated it after seeing my simple source code, so I sat down and r
 This project requires selenium and only currently runs on windows.
 
 I will update it to MacOS and Linux if there's enough intererst.
+
+Simply type `python3 hotornot.py`
