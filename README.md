@@ -10,3 +10,9 @@ This project requires selenium and only currently runs on windows.
 I will update it to MacOS and Linux if there's enough intererst.
 
 Simply type `python3 hotornot.py`
+
+# Why does the old script not work
+
+Hotornot now uses the 'isTrusted' flag when detecting clicks, these can not be easily simulated using javascript.
+
+Hence we have to use chromium for Python, a controllable browser!
