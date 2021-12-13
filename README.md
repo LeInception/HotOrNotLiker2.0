@@ -11,7 +11,7 @@ I will update it to MacOS and Linux if there's enough intererst.
 
 # Usage
 
-1. Type `python3 hotornot.py
+1. Type `python3 hotornot.py`
 2. Log into hotornot/badoo
 3. Profit!
 
